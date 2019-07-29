@@ -1,0 +1,13 @@
+#app, .wrap-placeholder {
+  width: 100%;
+  height: 100%;
+}
+
+.header{
+  width: 100%;
+  height: 1.066667rem;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-end;
+  margin-top: 0.986667rem;
+}
